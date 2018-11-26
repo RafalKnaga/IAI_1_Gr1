@@ -14,5 +14,7 @@ body {
 }
 
 .box_nowy{
-    background-color: blue;
+    background-color: red;
+    width: 20px;
+    height: 20px;
 }
